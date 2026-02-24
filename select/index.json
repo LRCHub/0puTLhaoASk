@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "These Are The Days Of Our Lives",
+  "base_artist": "Queen",
+  "createdAt": "2026-02-24T03:30:35.608411Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "These Are The Days Of Our Lives",
+      "artist": "Queen",
+      "has_synced": true,
+      "path": "select/01_These_Are_The_Days_Of_Our_Lives_Queen.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "These Are the Days of Our Lives",
+      "artist": "Queen",
+      "has_synced": true,
+      "path": "select/02_These_Are_the_Days_of_Our_Lives_Queen.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "These Are The Days Of Our Lives",
+      "artist": "Queen",
+      "has_synced": true,
+      "path": "select/03_These_Are_The_Days_Of_Our_Lives_Queen.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "These Are the Days of Our Lives",
+      "artist": "Queen",
+      "has_synced": true,
+      "path": "select/04_These_Are_the_Days_of_Our_Lives_Queen.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "These Are The Days Of Our Lives",
+      "artist": "Queen",
+      "has_synced": true,
+      "path": "select/05_These_Are_The_Days_Of_Our_Lives_Queen.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "These Are The Days Of Our Lives",
+      "artist": "Queen",
+      "has_synced": true,
+      "path": "select/06_These_Are_The_Days_Of_Our_Lives_Queen.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "These Are the Days of Our Lives",
+      "artist": "Queen",
+      "has_synced": true,
+      "path": "select/07_These_Are_the_Days_of_Our_Lives_Queen.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "These Are the Days of Our Lives",
+      "artist": "Queen",
+      "has_synced": true,
+      "path": "select/08_These_Are_the_Days_of_Our_Lives_Queen.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "These Are the Days of Our Lives",
+      "artist": "Queen",
+      "has_synced": true,
+      "path": "select/09_These_Are_the_Days_of_Our_Lives_Queen.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "These are the days of our lives",
+      "artist": "Queen",
+      "has_synced": true,
+      "path": "select/10_These_are_the_days_of_our_lives_Queen.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "These Are The Days Of Our Lives",
+      "artist": "Queen",
+      "has_synced": false,
+      "path": "select/pl_01_These_Are_The_Days_Of_Our_Lives_Queen.txt"
+    }
+  ]
+}
